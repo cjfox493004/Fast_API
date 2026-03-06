@@ -1,0 +1,34 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background: linear-gradient(135deg, #ffccff 0%, #ccffff 100%);
+    text-align: center;
+    padding-top: 50px;
+    margin: 0;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+}
+
+button {
+    font-size: 1.8rem;
+    padding: 12px 24px;
+    background: #ff9966;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #ff7744;
+}
+
+#number {
+    font-size: 6rem;
+    margin-top: 30px;
+    color: #6600cc;
+    font-weight: bold;
+}
